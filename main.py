@@ -12,7 +12,7 @@ def parse_html(html):
         tables = soup.find_all('table')
         for all_cards in tables:
             # check all headers for full card list
-            first_header = all_cards.findNext('th')
+            first_header = all_cards.findNext('td')
             if first_header.text == "Card Name":
                 for card in first_header.findAllNext('tr'):
                     new_card = card.findNext('td').text
