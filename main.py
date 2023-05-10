@@ -28,7 +28,7 @@ def write_sorted_by_type(file_name):
     with open(file_name, 'w') as f:
         f.write('MTGO Vintage Cube - Type Sorted' + os.linesep)
         f.write('Generated on: ' + datetime.datetime.now().strftime('%B %d %Y') + os.linesep)
-        keys = list(cards.keys())
+        keys = list(sorted(cards.keys()))
         last_key = keys[-1]
         first_key = keys[0]
         for key in cards:

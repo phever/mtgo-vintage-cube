@@ -1,14 +1,13 @@
 MTGO Vintage Cube - Type Sorted
-Generated on: January 24 2023
-
+Generated on: May 10 2023
 ------
 Azorius
 ------
 Fractured Identity
+Soulherder
 Spell Queller
 Teferi, Hero of Dominaria
 Teferi, Time Raveler
-Yorion, Sky Nomad
 
 ------
 Black
@@ -17,6 +16,7 @@ Animate Dead
 Archon of Cruelty
 Bazaar of Baghdad
 Bitterblossom
+Blood Artist
 Bloodchief's Thirst
 Bloodghast
 Bolas's Citadel
@@ -24,9 +24,8 @@ Bone Shards
 Braids, Arisen Nightmare
 Braids, Cabal Minion
 Cabal Ritual
+Cabal Therapist
 Collective Brutality
-Corpse Dance
-Cryptbreaker
 Custodi Lich
 Damnation
 Dark Confidant
@@ -35,10 +34,9 @@ Dauthi Voidwalker
 Demonic Tutor
 Duress
 Entomb
-Evolved Sleeper
 Exhume
 Fatal Push
-Gix, Yawgmoth Praetor
+Goryo's Vengeance
 Grave Titan
 Graveyard Trespasser
 Grief
@@ -48,11 +46,12 @@ Hymn to Tourach
 Imperial Seal
 Infernal Grasp
 Inquisition of Kozilek
+Jadar, Ghoulcaller of Nephalia
 Liliana of the Veil
 Liliana, the Last Hope
 Makeshift Mannequin
-Massacre Wurm
 Mesmeric Fiend
+Midnight Reaper
 Mind Twist
 Mox Jet
 Murderous Rider
@@ -60,20 +59,20 @@ Necromancy
 Night's Whisper
 Oona's Prowler
 Ophiomancer
-Pack Rat
+Phyrexian Tower
 Putrid Imp
 Ravenous Chupacabra
 Reanimate
 Recurring Nightmare
 Rishadan Port
-Scrapheap Scrounger
+Rotting Regisaur
 Shallow Grave
 Sheoldred, the Apocalypse
 Shriekmaw
-Skyclave Shade
 Snuff Out
-Takenuma, Abandoned Mire
 Tendrils of Agony
+The Meathook Massacre
+Thoughtpicker Witch
 Thoughtseize
 Toxic Deluge
 Vampire Hexmage
@@ -85,14 +84,17 @@ Yawgmoth's Will
 ------
 Blue
 ------
+Agent of Treachery
 Ancestral Recall
 Ancestral Vision
 Arcane Proxy
 Baral, Chief of Compliance
 Brain Freeze
+Braingeyser
 Brainstorm
 Brazen Borrower
 Bribery
+Chain of Vapor
 Chart a Course
 Consecrated Sphinx
 Consider
@@ -101,45 +103,42 @@ Cryptic Command
 Daze
 Deceiver Exarch
 Dig Through Time
+Displacer Kitten
+Dream Halls
 Echo of Eons
 Emry, Lurker of the Loch
 Fact or Fiction
 Force of Negation
 Force of Will
 Frantic Search
-Gilded Drake
 Gitaxian Probe
 Glen Elendra Archmage
-Gush
 High Tide
-Hullbreaker Horror
 Inkwell Leviathan
 Jace, Vryn's Prodigy
 Jace, the Mind Sculptor
-Ledger Shredder
+Looter il-Kor
 Mana Drain
 Mana Leak
-Memory Deluge
 Mind's Desire
 Miscalculation
 Mox Sapphire
 Mulldrifter
-Murktide Regent
 Mystic Confluence
 Mystical Tutor
 Narset, Parter of Veils
 Opposition
 Palinchron
+Paradoxical Outcome
 Pestermite
 Phantasmal Image
 Ponder
 Preordain
 Remand
-Repeal
 Riftwing Cloudskate
+Rona, Herald of Invasion
 Shark Typhoon
 Shelldock Isle
-Show and Tell
 Snapcaster Mage
 Sower of Temptation
 Spell Pierce
@@ -157,6 +156,7 @@ Tinker
 Treachery
 Treasure Cruise
 Trinket Mage
+Turnabout
 Upheaval
 Urza, Lord High Artificer
 Vendilion Clique
@@ -165,23 +165,24 @@ Venser, Shaper Savant
 ------
 Boros
 ------
-Aurelia, the Warleader
 Figure of Destiny
 Lightning Helix
 Nahiri, the Harbinger
 Showdown of the Skalds
+Wear/Tear
 
 ------
 Colorless
 ------
+Aetherflux Reservoir
 Azorius Signet
 Basalt Monolith
 Batterskull
 Black Lotus
 Blightsteel Colossus
 Boros Signet
+Candelabra of Tawnos
 Chrome Mox
-Cityscape Leveler
 Coalition Relic
 Coercive Portal
 Crucible of Worlds
@@ -194,10 +195,11 @@ Golos, Tireless Pilgrim
 Grim Monolith
 Gruul Signet
 Hangarback Walker
+Helm of Awakening
 Izzet Signet
+Kaldra Compleat
 Karn Liberated
 Karn, Scion of Urza
-Kuldotha Forgemaster
 Lion's Eye Diamond
 Lodestone Golem
 Lotus Bloom
@@ -217,69 +219,65 @@ Phyrexian Revoker
 Porcelain Legionnaire
 Rakdos Signet
 Relic of Progenitus
-Retrofitter Foundry
 Selesnya Signet
 Sensei's Divining Top
 Simic Signet
 Skullclamp
-Smokestack
 Smuggler's Copter
 Sol Ring
+Solemn Simulacrum
+Sorcerous Spyglass
 Sundering Titan
-Sword of Body and Mind
 Sword of Feast and Famine
 Sword of Fire and Ice
-Tangle Wire
 Thran Dynamo
 Timeless Lotus
 Ugin, the Spirit Dragon
 Ulamog, the Ceaseless Hunger
 Ulamog, the Infinite Gyre
 Umezawa's Jitte
-Unlicensed Hearse
 Walking Ballista
 Winter Orb
 Worn Powerstone
 Wurmcoil Engine
+Zuran Orb
 
 ------
 Dimir
 ------
-Ashiok, Nightmare Weaver
 Baleful Strix
-Kaito Shizuki
-Satoru Umezawa
+Fallen Shinobi
+Tezzeret, Agent of Bolas
 The Scarab God
+Thief of Sanity
 
 ------
 Golgari
 ------
+Deathrite Shaman
 Fiend Artisan
 Grist, the Hunger Tide
 Maelstrom Pulse
 Vraska, Golgari Queen
-Witherbloom Command
 
 ------
 Green
 ------
 Acidic Slime
 Arbor Elf
-Argoth, Sanctum of Nature
 Augur of Autumn
 Avenger of Zendikar
 Birds of Paradise
 Birthing Pod
 Boseiju, Who Endures
-Bushwhack
 Channel
-Circle of Dreams Druid
 Courser of Kruphix
+Court of Bounty
 Craterhoof Behemoth
 Crop Rotation
+Deep Forest Hermit
 Deranged Hermit
 Devoted Druid
-Elder Gargaroth
 Elvish Mystic
 Elvish Reclaimer
 Endurance
@@ -287,8 +285,8 @@ Eternal Witness
 Eureka
 Fastbond
 Finale of Devastation
+Force of Vigor
 Gaea's Cradle
-Garruk Relentless
 Garruk Wildspeaker
 Green Sun's Zenith
 Heartbeat of Spring
@@ -296,21 +294,18 @@ Hexdrinker
 Hornet Queen
 Ignoble Hierarch
 Joraga Treespeaker
-Kodama's Reach
 Kogla, the Titan Ape
-Life from the Loam
 Llanowar Elves
-Magus of the Order
 Mox Emerald
 Natural Order
-Nissa, Vastwood Seer
 Nissa, Who Shakes the World
 Noble Hierarch
 Oath of Druids
 Oracle of Mul Daya
+Pattern of Rebirth
 Pest Infestation
 Plow Under
-Polukranos, World Eater
+Primal Command
 Primeval Titan
 Questing Beast
 Ramunap Excavator
@@ -318,20 +313,25 @@ Reclamation Sage
 Regrowth
 Rofellos, Llanowar Emissary
 Sakura-Tribe Elder
+Satyr Wayfinder
 Scavenging Ooze
+Springbloom Druid
 Survival of the Fittest
 Sylvan Caryatid
 Sylvan Library
 Terastodon
 Thragtusk
+Time of Need
 Tireless Tracker
-Titania, Voice of Gaea
+Tooth and Nail
 Toski, Bearer of Secrets
-Tovolar's Huntmaster
 Utopia Sprawl
+Vorinclex
 Wall of Roots
 Whisperwood Elemental
 Woodfall Primus
+Worldly Tutor
+Wrenn and Realmbreaker
 
 ------
 Gruul
@@ -339,23 +339,23 @@ Gruul
 Escape to the Wilds
 Huntmaster of the Fells
 Manamorphose
-Meria, Scholar of Antiquity
 Minsc & Boo, Timeless Heroes
+Orcish Lumberjack
 Wrenn and Six
+Xenagos, God of Revels
 
 ------
 Izzet
 ------
 Dack Fayden
-Expansion // Explosion
 Expressive Iteration
 Goblin Electromancer
-Thousand-Year Storm
+Saheeli, Sublime Artificer
+Third Path Iconoclast
 
 ------
 Land
 ------
-Academy Ruins
 Ancient Tomb
 Arid Mesa
 Badlands
@@ -367,12 +367,11 @@ Blooming Marsh
 Botanical Sanctum
 Breeding Pool
 Celestial Colonnade
+City of Traitors
 Concealed Courtyard
 Copperline Gorge
-Creeping Tar Pit
 Dark Depths
 Darkslick Shores
-Field of the Dead
 Fiery Islet
 Flooded Strand
 Godless Shrine
@@ -381,8 +380,8 @@ Horizon Canopy
 Indatha Triome
 Inspiring Vantage
 Jetmir's Garden
+Karplusan Forest
 Ketria Triome
-Lavaclaw Reaches
 Library of Alexandria
 Marsh Flats
 Mishra's Factory
@@ -395,7 +394,6 @@ Plateau
 Polluted Delta
 Prismatic Vista
 Raffine's Tower
-Raging Ravine
 Raugrin Triome
 Razorverge Thicket
 Sacred Foundry
@@ -409,6 +407,7 @@ Spara's Headquarters
 Spirebluff Canal
 Steam Vents
 Stomping Ground
+Sulfurous Springs
 Sunbaked Canyon
 Taiga
 Temple Garden
@@ -416,6 +415,7 @@ Thespian's Stage
 Tolarian Academy
 Tropical Island
 Tundra
+Underground River
 Underground Sea
 Urza's Saga
 Verdant Catacombs
@@ -431,10 +431,10 @@ Ziatora's Proving Ground
 ------
 Multicolor
 ------
+Atraxa, Grand Unifier
 Leovold, Emissary of Trest
-Niv-Mizzet, Reborn
+Niv-Mizzet Reborn
 Omnath, Locus of Creation
-Progenitus
 Sphinx of the Steel Wind
 
 ------
@@ -449,54 +449,53 @@ Vindicate
 ------
 Rakdos
 ------
-Bloodtithe Harvester
 Daretti, Ingenious Iconoclast
+Dreadbore
 Kolaghan's Command
-Kroxa, Titan of Death's Hunger
-Olivia, Crimson Bride
+Mayhem Devil
+Valki, God of Lies
 
 ------
 Red
 ------
-Abbot of Keral Keep
 Abrade
 Avalanche Riders
 Birgi, God of Storytelling
-Bloodthirsty Adversary
+Bloodfeather Phoenix
 Bomat Courier
 Bonecrusher Giant
 Burst Lightning
 Chain Lightning
+Chandra, Acolyte of Flame
 Chandra, Torch of Defiance
 Char
 Daretti, Scrap Savant
+Dark-Dweller Oracle
 Desperate Ritual
 Dire Fleet Daredevil
-Dragon's Rage Channeler
 Eidolon of the Great Revel
+Embercleave
 Embereth Shieldbreaker
-Fable of the Mirror Breaker
+Fable of the Mirror-Breaker
 Faithless Looting
+Fiery Confluence
 Fireblast
+Firebolt
 Fury
 Glorybringer
 Goblin Bombardment
 Goblin Guide
 Goblin Rabblemaster
 Goblin Welder
-Goldspan Dragon
+Greater Gargodon
 Grim Lavamancer
-Hazoret the Fervent
 Hellrider
-Ignite Memories
 Imperial Recruiter
 Incinerate
 Inferno Titan
-Jokulhaups
+Jeska's Will
+Kari Zev, Skyship Raider
 Kiki-Jiki, Mirror Breaker
-Koth of the Hammer
-Krark, the Thumbless
-Laelia, the Blade Reforged
 Light Up the Stage
 Lightning Bolt
 Magda, Brazen Outlaw
@@ -505,11 +504,13 @@ Mizzium Mortars
 Monastery Swiftspear
 Mox Ruby
 Past in Flames
-Pia and Kiran Nalaar
+Purphoros's Intervention
 Pyretic Ritual
 Ragavan, Nimble Pilferer
+Rampaging Ferocidon
 Red Elemental Blast
-Rolling Earthquake
+Rekindling Phoenix
+Robber of the Rich
 Runaway Steam-Kin
 Seasoned Pyromancer
 Seething Song
@@ -518,9 +519,7 @@ Splinter Twin
 Strip Mine
 Sulfuric Vortex
 Through the Breach
-Thundermaw Hellkite
 Underworld Breach
-Unholy Heat
 Wasteland
 Wheel of Fortune
 Young Pyromancer
@@ -549,42 +548,43 @@ White
 ------
 Adanto Vanguard
 Adeline, Resplendent Cathar
-Archangel Avacyn
+Angel of Sanctions
+Arena Rector
 Armageddon
 Balance
-Baneslayer Angel
 Blade Splicer
 Cathar Commando
 Containment Priest
 Council's Judgment
 Damn
-Destroy Evil
 Elesh Norn, Grand Cenobite
+Elesh Norn, Mother of Machines
 Elite Spellbinder
-Elspeth Resplendent
-Elspeth, Knight Errant
+Elspeth Conquers Death
+Elspeth, Knight-Errant
 Elspeth, Sun's Champion
+Enlightened Tutor
 Ephemerate
 Esper Sentinel
 Flickerwisp
 Gideon Jura
 Gideon, Ally of Zendikar
 Giver of Runes
+Guardian of Ghirapur
 Hero of Bladehold
-History of Benalia
 Intrepid Adversary
 Iona, Shield of Emeria
 Karakas
-Karmic Guide
-Land Tax
+Kenrith, the Returned King
 Leonin Relic-Warder
 Lion Sash
 Loran of the Third Path
+Loyal Retainers
 Mana Tithe
+March of Otherworldly Light
 Monastery Mentor
 Mother of Runes
 Mox Pearl
-Oblivion Ring
 Oust
 Palace Jailer
 Parallax Wave
@@ -592,23 +592,22 @@ Path to Exile
 Ravages of War
 Recruiter of the Guard
 Restoration Angel
+Seal from Existence
 Selfless Spirit
-Silverblade Paladin
 Skyclave Apparition
 Solitude
-Soulfire Grand Master
 Spectral Procession
-Steel Seraph
 Stoneforge Mystic
 Student of Warfare
-Sun Titan
 Swords to Plowshares
 Temporary Lockdown
+Teshar, Ancestor's Apostle
 Thalia, Guardian of Thraben
 The Wandering Emperor
 Thraben Inspector
+Tithe Taker
 Usher of the Fallen
-Vryn Wingmare
 Wall of Omens
+White Plume Adventurer
 Winds of Abandon
 Wrath of God
