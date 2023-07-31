@@ -1,5 +1,5 @@
 MTGO Vintage Cube - Type Sorted
-Generated on: May 10 2023
+Generated on: July 31 2023
 ------
 Azorius
 ------
@@ -24,7 +24,7 @@ Bone Shards
 Braids, Arisen Nightmare
 Braids, Cabal Minion
 Cabal Ritual
-Cabal Therapist
+Cabal Therapy
 Collective Brutality
 Custodi Lich
 Damnation
@@ -72,7 +72,6 @@ Shriekmaw
 Snuff Out
 Tendrils of Agony
 The Meathook Massacre
-Thoughtpicker Witch
 Thoughtseize
 Toxic Deluge
 Vampire Hexmage
@@ -80,6 +79,7 @@ Vampiric Tutor
 Wishclaw Talisman
 Woe Strider
 Yawgmoth's Will
+Yawgmoth, Thran Physician
 
 ------
 Blue
@@ -117,7 +117,7 @@ High Tide
 Inkwell Leviathan
 Jace, Vryn's Prodigy
 Jace, the Mind Sculptor
-Looter il-Kor
+Ledger Shredder
 Mana Drain
 Mana Leak
 Mind's Desire
@@ -144,7 +144,6 @@ Sower of Temptation
 Spell Pierce
 Spellseeker
 Suspicious Stowaway
-Tezzeret the Seeker
 Thassa's Oracle
 Thieving Skydiver
 Thirst for Discovery
@@ -182,7 +181,6 @@ Black Lotus
 Blightsteel Colossus
 Boros Signet
 Candelabra of Tawnos
-Chrome Mox
 Coalition Relic
 Coercive Portal
 Crucible of Worlds
@@ -219,6 +217,7 @@ Phyrexian Revoker
 Porcelain Legionnaire
 Rakdos Signet
 Relic of Progenitus
+Retrofitter Foundry
 Selesnya Signet
 Sensei's Divining Top
 Simic Signet
@@ -226,7 +225,6 @@ Skullclamp
 Smuggler's Copter
 Sol Ring
 Solemn Simulacrum
-Sorcerous Spyglass
 Sundering Titan
 Sword of Feast and Famine
 Sword of Fire and Ice
@@ -407,6 +405,7 @@ Spara's Headquarters
 Spirebluff Canal
 Steam Vents
 Stomping Ground
+Strip Mine
 Sulfurous Springs
 Sunbaked Canyon
 Taiga
@@ -433,6 +432,7 @@ Multicolor
 ------
 Atraxa, Grand Unifier
 Leovold, Emissary of Trest
+Nicol Bolas, God-Pharoah
 Niv-Mizzet Reborn
 Omnath, Locus of Creation
 Sphinx of the Steel Wind
@@ -470,7 +470,6 @@ Chandra, Acolyte of Flame
 Chandra, Torch of Defiance
 Char
 Daretti, Scrap Savant
-Dark-Dweller Oracle
 Desperate Ritual
 Dire Fleet Daredevil
 Eidolon of the Great Revel
@@ -496,6 +495,7 @@ Inferno Titan
 Jeska's Will
 Kari Zev, Skyship Raider
 Kiki-Jiki, Mirror Breaker
+Laelia, the Blade Reforged
 Light Up the Stage
 Lightning Bolt
 Magda, Brazen Outlaw
@@ -507,7 +507,6 @@ Past in Flames
 Purphoros's Intervention
 Pyretic Ritual
 Ragavan, Nimble Pilferer
-Rampaging Ferocidon
 Red Elemental Blast
 Rekindling Phoenix
 Robber of the Rich
@@ -516,9 +515,9 @@ Seasoned Pyromancer
 Seething Song
 Sneak Attack
 Splinter Twin
-Strip Mine
 Sulfuric Vortex
 Through the Breach
+Thundermaw Hellkite
 Underworld Breach
 Wasteland
 Wheel of Fortune
@@ -547,7 +546,7 @@ Uro, Titan of Nature's Wrath
 White
 ------
 Adanto Vanguard
-Adeline, Resplendent Cathar
+Adeline, Replendent Cathar
 Angel of Sanctions
 Arena Rector
 Armageddon

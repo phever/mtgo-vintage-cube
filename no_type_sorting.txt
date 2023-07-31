@@ -1,10 +1,10 @@
 MTGO Vintage Cube
-Generated on: May 10 2023
+Generated on: July 31 2023
 ------
 Abrade
 Acidic Slime
 Adanto Vanguard
-Adeline, Resplendent Cathar
+Adeline, Replendent Cathar
 Aetherflux Reservoir
 Agent of Treachery
 Ancestral Recall
@@ -64,7 +64,7 @@ Breeding Pool
 Bribery
 Burst Lightning
 Cabal Ritual
-Cabal Therapist
+Cabal Therapy
 Candelabra of Tawnos
 Cathar Commando
 Celestial Colonnade
@@ -75,7 +75,6 @@ Chandra, Torch of Defiance
 Channel
 Char
 Chart a Course
-Chrome Mox
 City of Traitors
 Coalition Relic
 Coercive Portal
@@ -102,7 +101,6 @@ Daretti, Scrap Savant
 Dark Confidant
 Dark Depths
 Dark Ritual
-Dark-Dweller Oracle
 Darkslick Shores
 Dauthi Voidwalker
 Daze
@@ -245,6 +243,8 @@ Knight of the Reliquary
 Kogla, the Titan Ape
 Kolaghan's Command
 Koma, Cosmos Serpent
+Laelia, the Blade Reforged
+Ledger Shredder
 Leonin Relic-Warder
 Leovold, Emissary of Trest
 Library of Alexandria
@@ -258,7 +258,6 @@ Lion Sash
 Lion's Eye Diamond
 Llanowar Elves
 Lodestone Golem
-Looter il-Kor
 Loran of the Third Path
 Lotus Bloom
 Lotus Petal
@@ -311,6 +310,7 @@ Nahiri, the Harbinger
 Narset, Parter of Veils
 Natural Order
 Necromancy
+Nicol Bolas, God-Pharoah
 Night's Whisper
 Nissa, Who Shakes the World
 Niv-Mizzet Reborn
@@ -357,7 +357,6 @@ Questing Beast
 Raffine's Tower
 Ragavan, Nimble Pilferer
 Rakdos Signet
-Rampaging Ferocidon
 Ramunap Excavator
 Raugrin Triome
 Ravages of War
@@ -373,6 +372,7 @@ Rekindling Phoenix
 Relic of Progenitus
 Remand
 Restoration Angel
+Retrofitter Foundry
 Riftwing Cloudskate
 Rishadan Port
 Robber of the Rich
@@ -413,7 +413,6 @@ Snuff Out
 Sol Ring
 Solemn Simulacrum
 Solitude
-Sorcerous Spyglass
 Soulherder
 Sower of Temptation
 Spara's Headquarters
@@ -449,7 +448,6 @@ Temporary Lockdown
 Tendrils of Agony
 Terastodon
 Teshar, Ancestor's Apostle
-Tezzeret the Seeker
 Tezzeret, Agent of Bolas
 Thalia, Guardian of Thraben
 Thassa's Oracle
@@ -461,12 +459,12 @@ Thief of Sanity
 Thieving Skydiver
 Third Path Iconoclast
 Thirst for Discovery
-Thoughtpicker Witch
 Thoughtseize
 Thraben Inspector
 Thragtusk
 Thran Dynamo
 Through the Breach
+Thundermaw Hellkite
 Tidehollow Sculler
 Time Spiral
 Time Walk
@@ -536,6 +534,7 @@ Wurmcoil Engine
 Xander's Lounge
 Xenagos, God of Revels
 Yawgmoth's Will
+Yawgmoth, Thran Physician
 Young Pyromancer
 Zagoth Triome
 Zealous Conscripts
