@@ -12,7 +12,7 @@ def parse_html(html):
         tables = soup.find_all('table')
         for all_cards in tables:
             # check all headers for full card list
-            first_header = all_cards.findNext('th')
+            first_header = all_cards.findNext('td')
             if first_header.text == "Card Name":
                 for card in first_header.findAllNext('tr'):
                     new_card = card.findNext('td').text
@@ -28,7 +28,7 @@ def write_sorted_by_type(file_name):
     with open(file_name, 'w') as f:
         f.write('MTGO Vintage Cube - Type Sorted' + os.linesep)
         f.write('Generated on: ' + datetime.datetime.now().strftime('%B %d %Y') + os.linesep)
-        keys = list(cards.keys())
+        keys = list(sorted(cards.keys()))
         last_key = keys[-1]
         first_key = keys[0]
         for key in cards:
