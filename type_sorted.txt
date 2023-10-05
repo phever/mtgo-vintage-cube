@@ -1,10 +1,5 @@
 MTGO Vintage Cube - Type Sorted
-Generated on: August 16 2023
-------
-Abzan
-------
-Indatha Triome
-
+Generated on: October 04 2023
 ------
 Azorius
 ------
@@ -21,11 +16,6 @@ Tundra
 Urza, Lord Protector
 
 ------
-Bant
-------
-Spara's Headquarters
-
-------
 Black
 ------
 Animate Dead
@@ -36,7 +26,6 @@ Bitterblossom
 Bloodchief's Thirst
 Bolas's Citadel
 Bone Shards
-Braids, Arisen Nightmare
 Cabal Ritual
 Call of the Ring
 Collective Brutality
@@ -74,22 +63,23 @@ Mox Jet
 Murderous Rider
 Necromancy
 Night's Whisper
-Noxious Gearhulk
 Oona's Prowler
 Ophiomancer
 Orcish Bowmasters
+Phyrexian Fleshgorger
 Putrid Imp
 Rankle, Master of Pranks
 Reanimate
 Recurring Nightmare
 Shallow Grave
+Sheoldred's Edict
 Sheoldred, the Apocalypse
 Snuff Out
-Soul Transfer
 Tenacious Underdog
 Tendrils of Agony
 Thoughtseize
 Toxic Deluge
+Troll of Khazad-dûm
 Urborg, Tomb of Yawgmoth
 Vampire Hexmage
 Vampiric Tutor
@@ -102,7 +92,6 @@ Blue
 ------
 Ancestral Recall
 Baral, Chief of Compliance
-Blue Sun's Zenith
 Brain Freeze
 Brainstorm
 Brazen Borrower
@@ -124,7 +113,6 @@ Flash
 Force of Negation
 Force of Will
 Frantic Search
-Frost Titan
 Gitaxian Probe
 Hard Evidence
 High Tide
@@ -132,6 +120,7 @@ Hullbreaker Horror
 Jace, Vryn's Prodigy
 Jace, the Mind Sculptor
 Ledger Shredder
+Lórien Revealed
 Mana Drain
 Mana Leak
 Mind's Desire
@@ -150,8 +139,8 @@ Ponder
 Preordain
 Remand
 Rona, Herald of Invasion
+Seal of Removal
 Shark Typhoon
-Shelldock Isle
 Snap
 Snapcaster Mage
 Sower of Temptation
@@ -159,6 +148,7 @@ Spell Pierce
 Spellseeker
 Subtlety
 Suspicious Stowaway
+Svyelun of Sea and Sky
 Thieving Skydiver
 Thirst for Discovery
 Time Spiral
@@ -196,6 +186,7 @@ Zirda, the Dawnwaker
 Colorless
 ------
 Aetherflux Reservoir
+Agatha's Soul Cauldron
 Ancient Tomb
 Andúril, Flame of the West
 Basalt Monolith
@@ -207,13 +198,11 @@ Chrome Mox
 City of Traitors
 Coalition Relic
 Crucible of Worlds
-Crystalline Giant
 Dark Depths
 Dismember
 Emrakul, the Aeons Torn
 Everflowing Chalice
 Field of the Dead
-Foundry Inspector
 Golos, Tireless Pilgrim
 Grim Monolith
 Hangarback Walker
@@ -221,12 +210,14 @@ Helm of Awakening
 Kaldra Compleat
 Karn, Scion of Urza
 Library of Alexandria
+Lightning Greaves
 Lion's Eye Diamond
 Lotus Petal
 Mana Crypt
 Mana Vault
 Memory Jar
 Mindslaver
+Mirage Mirror
 Mishra's Bauble
 Mishra's Factory
 Mishra's Workshop
@@ -250,7 +241,6 @@ Sol Ring
 Solemn Simulacrum
 Strip Mine
 Sundering Titan
-Sword of Fire and Ice
 The Mightstone and Weakstone
 The One Ring
 Thespian's Stage
@@ -282,16 +272,9 @@ Underground Sea
 Watery Grave
 
 ------
-Esper
-------
-Raffine's Tower
-Sphinx of the Steel Wind
-
-------
 Golgari
 ------
 Assassin's Trophy
-Badlands
 Bayou
 Blooming Marsh
 Fiend Artisan
@@ -306,10 +289,8 @@ Vraska, Golgari Queen
 ------
 Green
 ------
-Acidic Slime
 Arbor Elf
 Augur of Autumn
-Avenger of Zendikar
 Birds of Paradise
 Birthing Pod
 Boseiju, Who Endures
@@ -350,6 +331,7 @@ Nissa, Who Shakes the World
 Noble Hierarch
 Oath of Druids
 Oracle of Mul Daya
+Outland Liberator
 Pest Infestation
 Primeval Titan
 Questing Beast
@@ -362,7 +344,7 @@ Scavenging Ooze
 Survival of the Fittest
 Sylvan Caryatid
 Sylvan Library
-Thragtusk
+Sylvan Safekeeper
 Thrun, Breaker of Silence
 Tireless Tracker
 Titan of Industry
@@ -371,22 +353,16 @@ Ulvenwald Oddity
 Utopia Sprawl
 Wall of Roots
 Woodfall Primus
+Workshop Warchief
 Worldspine Wurm
 Wrenn and Realmbreaker
-
-------
-Grixis
-------
-Cruel Ultimatum
-Xander's Lounge
 
 ------
 Gruul
 ------
 Copperline Gorge
-Dragonlord Atarka
 Escape to the Wilds
-Huntmaster of the Fells
+Kogla and Yidaro
 Manamorphose
 Minsc & Boo, Timeless Heroes
 Orcish Lumberjack
@@ -413,35 +389,27 @@ Third Path Iconoclast
 Volcanic Island
 
 ------
-Jeskai
-------
-Inspired Ultimatum
-Raugrin Triome
-
-------
-Jund
-------
-Zagoth Triome
-Ziatora's Proving Ground
-
-------
-Mardu
-------
-Savai Triome
-
-------
 Multicolor
 ------
 Atraxa, Grand Unifier
+Cruel Ultimatum
+Indatha Triome
+Inspired Ultimatum
+Jetmir's Garden
 Kenrith, the Returned King
+Ketria Triome
+Leovold, Emissary of Trest
 Mana Confluence
 Omnath, Locus of Creation
 Prismatic Vista
-
-------
-Naya
-------
-Jetmir's Garden
+Raffine's Tower
+Raugrin Triome
+Savai Triome
+Spara's Headquarters
+Sphinx of the Steel Wind
+Xander's Lounge
+Zagoth Triome
+Ziatora's Proving Ground
 
 ------
 Orzhov
@@ -461,6 +429,7 @@ Vindicate
 ------
 Rakdos
 ------
+Badlands
 Blackcleave Cliffs
 Blood Crypt
 Bloodstained Mire
@@ -476,7 +445,7 @@ Talisman of Indulgence
 Red
 ------
 Abrade
-Birgi, God of Storytelling
+Arc Trail
 Bitter Reunion
 Bomat Courier
 Bonecrusher Giant
@@ -506,7 +475,6 @@ Hellrider
 Imperial Recruiter
 Incinerate
 Inferno Titan
-Jeska's Will
 Kari Zev, Skyship Raider
 Kiki-Jiki, Mirror Breaker
 Kumano Faces Kakkazan
@@ -521,6 +489,7 @@ Mizzix's Mastery
 Monastery Swiftspear
 Mox Ruby
 Nahiri's Warcrafting
+Oliphaunt
 Pia and Kiran Nalaar
 Pyretic Ritual
 Rabbit Battery
@@ -533,6 +502,7 @@ Seasoned Pyromancer
 Seething Song
 Sneak Attack
 Splinter Twin
+Squee, Dubious Monarch
 Sulfuric Vortex
 Through the Breach
 Thundermaw Hellkite
@@ -571,16 +541,6 @@ Uro, Titan of Nature's Wrath
 Waterlogged Grove
 
 ------
-Sultai
-------
-Leovold, Emissary of Trest
-
-------
-Temur
-------
-Ketria Triome
-
-------
 White
 ------
 Adanto Vanguard
@@ -595,16 +555,15 @@ Council's Judgment
 Damn
 Elesh Norn, Grand Cenobite
 Elite Spellbinder
-Elspeth Conquers Death
 Elspeth, Knight-Errant
 Elspeth, Sun's Champion
 Enlightened Tutor
 Ephemerate
 Esper Sentinel
 Flickerwisp
-Gideon Jura
 Gideon, Ally of Zendikar
 Giver of Runes
+Glimmer Lens
 Guardian Scalelord
 Hero of Bladehold
 Intrepid Adversary
@@ -615,7 +574,6 @@ Leonin Relic-Warder
 Leyline Binding
 Lion Sash
 Loran of the Third Path
-March of Otherworldly Light
 Monastery Mentor
 Mother of Runes
 Mox Pearl
@@ -623,6 +581,7 @@ Oust
 Palace Jailer
 Parallax Wave
 Path to Exile
+Prismatic Ending
 Recruiter of the Guard
 Reprieve
 Restoration Angel
@@ -642,6 +601,7 @@ The Wandering Emperor
 Thraben Inspector
 Tithe Taker
 Touch the Spirit Realm
+Unexpectedly Absent
 Usher of the Fallen
 Wall of Omens
 Weathered Wayfarer

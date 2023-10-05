@@ -12,15 +12,18 @@ def parse_html(html):
         tables = soup.find_all('table')
         for all_cards in tables:
             # check all headers for full card list
-            first_header = all_cards.findNext('th')
-            if first_header.text == "Card Name":
-                for card in first_header.findAllNext('tr'):
-                    new_card = card.findNext('td').text
-                    new_card_type = card.findNext('td').next_sibling.next_sibling.text
-                    if new_card_type in cards.keys():
-                        cards[new_card_type].append(new_card)
+            first_header = all_cards.find_next('th')
+            second_header = first_header.find_next('th')
+            if first_header.text == "Color" and second_header.text == "Card":
+                for card in first_header.find_all_next('tr'):
+                    # color
+                    first_data_value = card.find_next('td').text
+                    # card
+                    second_data_value = card.find_next('td').next_sibling.next_sibling.text
+                    if first_data_value in cards.keys():
+                        cards[first_data_value].append(second_data_value)
                     else:
-                        cards[new_card_type] = [new_card]
+                        cards[first_data_value] = [second_data_value]
 
 
 def write_sorted_by_type(file_name):
